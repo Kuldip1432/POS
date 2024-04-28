@@ -1,0 +1,17 @@
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Repository.dll.config
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Repository.dll
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Repository.pdb
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.DataAccess.dll
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Entity.dll
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Framework.dll
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.DataAccess.pdb
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.DataAccess.dll.config
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Entity.pdb
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Entity.dll.config
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Framework.pdb
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\bin\Debug\IMS.Framework.dll.config
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\obj\Debug\IMS.Repository.csproj.AssemblyReference.cache
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\obj\Debug\IMS.Repository.csproj.CoreCompileInputs.cache
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\obj\Debug\IMS.Repository.csproj.CopyComplete
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\obj\Debug\IMS.Repository.dll
+C:\Kuldip\.NET-Point-of-Sale-POS--Csharp-main\POS.InventoryManagementSystem\IMS.Repository\obj\Debug\IMS.Repository.pdb

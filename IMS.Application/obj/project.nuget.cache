@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZG/VNKn8M3UUNFpdRtCKWBl3WclrzGtLwXv8fyeDkdxDN+D2ANmCjrir35Dz985Cz1u2oVzyGUrXCSPJAkXzw==",
+  "success": true,
+  "projectFilePath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Application\\IMS.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages\\devexpress.expressapp.codeanalysis\\23.2.5\\devexpress.expressapp.codeanalysis.23.2.5.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512"
+  ],
+  "logs": []
+}

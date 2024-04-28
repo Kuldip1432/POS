@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Application\\IMS.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Application\\IMS.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Application\\IMS.Application.csproj",
+        "projectName": "FinalPoject",
+        "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Application\\IMS.Application.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/HYib928WeyPFTHDMQGm6p6CCFNPuV6T56BG4yAJ1YnhSkowhvR/api/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.DataAccess\\IMS.DataAccess.csproj": {
+                "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.DataAccess\\IMS.DataAccess.csproj"
+              },
+              "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Entity\\IMS.Entity.csproj": {
+                "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Entity\\IMS.Entity.csproj"
+              },
+              "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Framework\\IMS.Framework.csproj": {
+                "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Framework\\IMS.Framework.csproj"
+              },
+              "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Repository\\IMS.Repository.csproj": {
+                "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Repository\\IMS.Repository.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "DevExpress.ExpressApp.CodeAnalysis": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[23.2.5, )"
+            },
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4.6, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.DataAccess\\IMS.DataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.DataAccess\\IMS.DataAccess.csproj",
+        "projectName": "IMS.DataAccess",
+        "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.DataAccess\\IMS.DataAccess.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Entity\\IMS.Entity.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Entity\\IMS.Entity.csproj",
+        "projectName": "IMS.Entity",
+        "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Entity\\IMS.Entity.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Framework\\IMS.Framework.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Framework\\IMS.Framework.csproj",
+        "projectName": "IMS.Framework",
+        "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Framework\\IMS.Framework.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Repository\\IMS.Repository.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Repository\\IMS.Repository.csproj",
+        "projectName": "IMS.Repository",
+        "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Repository\\IMS.Repository.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.DataAccess\\IMS.DataAccess.csproj": {
+                "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.DataAccess\\IMS.DataAccess.csproj"
+              },
+              "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Entity\\IMS.Entity.csproj": {
+                "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Entity\\IMS.Entity.csproj"
+              },
+              "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Framework\\IMS.Framework.csproj": {
+                "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Framework\\IMS.Framework.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "DevExpress.ExpressApp.CodeAnalysis/23.2.5": {
+        "type": "package"
+      },
+      "Guna.UI2.WinForms/2.0.4.6": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net461/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Guna.UI2.dll": {}
+        }
+      },
+      "IMS.DataAccess/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.DataAccess.dll": {}
+        }
+      },
+      "IMS.Entity/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Entity.dll": {}
+        }
+      },
+      "IMS.Framework/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Framework.dll": {}
+        }
+      },
+      "IMS.Repository/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "IMS.DataAccess": "1.0.0",
+          "IMS.Entity": "1.0.0",
+          "IMS.Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IMS.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Repository.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "DevExpress.ExpressApp.CodeAnalysis/23.2.5": {
+        "type": "package"
+      },
+      "Guna.UI2.WinForms/2.0.4.6": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net461/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Guna.UI2.dll": {}
+        }
+      },
+      "IMS.DataAccess/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.DataAccess.dll": {}
+        }
+      },
+      "IMS.Entity/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Entity.dll": {}
+        }
+      },
+      "IMS.Framework/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Framework.dll": {}
+        }
+      },
+      "IMS.Repository/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "IMS.DataAccess": "1.0.0",
+          "IMS.Entity": "1.0.0",
+          "IMS.Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IMS.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Repository.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-arm64": {
+      "DevExpress.ExpressApp.CodeAnalysis/23.2.5": {
+        "type": "package"
+      },
+      "Guna.UI2.WinForms/2.0.4.6": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net461/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Guna.UI2.dll": {}
+        }
+      },
+      "IMS.DataAccess/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.DataAccess.dll": {}
+        }
+      },
+      "IMS.Entity/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Entity.dll": {}
+        }
+      },
+      "IMS.Framework/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Framework.dll": {}
+        }
+      },
+      "IMS.Repository/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "IMS.DataAccess": "1.0.0",
+          "IMS.Entity": "1.0.0",
+          "IMS.Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IMS.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Repository.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "DevExpress.ExpressApp.CodeAnalysis/23.2.5": {
+        "type": "package"
+      },
+      "Guna.UI2.WinForms/2.0.4.6": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net461/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Guna.UI2.dll": {}
+        }
+      },
+      "IMS.DataAccess/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.DataAccess.dll": {}
+        }
+      },
+      "IMS.Entity/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Entity.dll": {}
+        }
+      },
+      "IMS.Framework/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Framework.dll": {}
+        }
+      },
+      "IMS.Repository/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "IMS.DataAccess": "1.0.0",
+          "IMS.Entity": "1.0.0",
+          "IMS.Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IMS.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Repository.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "DevExpress.ExpressApp.CodeAnalysis/23.2.5": {
+        "type": "package"
+      },
+      "Guna.UI2.WinForms/2.0.4.6": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net461/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Guna.UI2.dll": {}
+        }
+      },
+      "IMS.DataAccess/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.DataAccess.dll": {}
+        }
+      },
+      "IMS.Entity/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Entity.dll": {}
+        }
+      },
+      "IMS.Framework/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/IMS.Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Framework.dll": {}
+        }
+      },
+      "IMS.Repository/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "IMS.DataAccess": "1.0.0",
+          "IMS.Entity": "1.0.0",
+          "IMS.Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IMS.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IMS.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevExpress.ExpressApp.CodeAnalysis/23.2.5": {
+      "sha512": "wCDvuDSCVC1laLtxbMKVJPHrqiK/3pOASToZ33E8n6ZJjpka/QcKYhM7wfTtkI+rrsRmMXCSY5eC6edhoMIBHg==",
+      "type": "package",
+      "path": "devexpress.expressapp.codeanalysis/23.2.5",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/DevExpress.ExpressApp.CodeAnalysis.v23.2.dll",
+        "devexpress.expressapp.codeanalysis.23.2.5.nupkg.sha512",
+        "devexpress.expressapp.codeanalysis.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "Guna.UI2.WinForms/2.0.4.6": {
+      "sha512": "NYzSJp7e47Cz3NgGCHvzadash8ycmxxUnpLg4Rr/MSYG9WDw0HOoTI4SkbDW+HbACrf6tsWYCuzWkgvjuM/O6w==",
+      "type": "package",
+      "path": "guna.ui2.winforms/2.0.4.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+        "guna.ui2.winforms.nuspec",
+        "icon.png",
+        "lib/net40/Guna.UI2.dll",
+        "lib/net45/Guna.UI2.dll",
+        "lib/net461/Guna.UI2.dll",
+        "lib/net472/Guna.UI2.dll",
+        "lib/net48/Guna.UI2.dll",
+        "lib/net6.0-windows7.0/Guna.UI2.dll",
+        "lib/net7.0-windows7.0/Guna.UI2.dll",
+        "lib/netcoreapp3.1/Guna.UI2.dll"
+      ]
+    },
+    "IMS.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../IMS.DataAccess/IMS.DataAccess.csproj",
+      "msbuildProject": "../IMS.DataAccess/IMS.DataAccess.csproj"
+    },
+    "IMS.Entity/1.0.0": {
+      "type": "project",
+      "path": "../IMS.Entity/IMS.Entity.csproj",
+      "msbuildProject": "../IMS.Entity/IMS.Entity.csproj"
+    },
+    "IMS.Framework/1.0.0": {
+      "type": "project",
+      "path": "../IMS.Framework/IMS.Framework.csproj",
+      "msbuildProject": "../IMS.Framework/IMS.Framework.csproj"
+    },
+    "IMS.Repository/1.0.0": {
+      "type": "project",
+      "path": "../IMS.Repository/IMS.Repository.csproj",
+      "msbuildProject": "../IMS.Repository/IMS.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "DevExpress.ExpressApp.CodeAnalysis >= 23.2.5",
+      "Guna.UI2.WinForms >= 2.0.4.6",
+      "IMS.DataAccess >= 1.0.0",
+      "IMS.Entity >= 1.0.0",
+      "IMS.Framework >= 1.0.0",
+      "IMS.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Application\\IMS.Application.csproj",
+      "projectName": "FinalPoject",
+      "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Application\\IMS.Application.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
+        "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/HYib928WeyPFTHDMQGm6p6CCFNPuV6T56BG4yAJ1YnhSkowhvR/api/v3/index.json": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.DataAccess\\IMS.DataAccess.csproj": {
+              "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.DataAccess\\IMS.DataAccess.csproj"
+            },
+            "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Entity\\IMS.Entity.csproj": {
+              "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Entity\\IMS.Entity.csproj"
+            },
+            "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Framework\\IMS.Framework.csproj": {
+              "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Framework\\IMS.Framework.csproj"
+            },
+            "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Repository\\IMS.Repository.csproj": {
+              "projectPath": "C:\\Kuldip\\.NET-Point-of-Sale-POS--Csharp-main\\POS.InventoryManagementSystem\\IMS.Repository\\IMS.Repository.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "DevExpress.ExpressApp.CodeAnalysis": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[23.2.5, )"
+          },
+          "Guna.UI2.WinForms": {
+            "target": "Package",
+            "version": "[2.0.4.6, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
